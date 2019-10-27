@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 10px auto;
+    width: 70%;
+    background: 000;
+  }
+  
+  td, th {
+    border: 1px solid #273746 ;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ec8585;
+  }
